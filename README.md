@@ -1,6 +1,6 @@
 # movievue
 
-> A Vue.js project
+> A Vue.js project that uses themoviedb.org API
 
 ## Build Setup
 

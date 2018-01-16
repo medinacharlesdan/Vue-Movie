@@ -2,8 +2,15 @@
 
 > A Vue.js project that uses themoviedb.org API
 
-## Build Setup
+## Screenshots
 
+<div align="center">
+<img src="https://github.com/medinacharlesdan/Vue-Movie/blob/master/screenshot2.png" >
+<img src="https://github.com/medinacharlesdan/Vue-Movie/blob/master/screenshot1.jpg> 
+</div>
+
+
+## Build Setup
 ``` bash
 # install dependencies
 npm install

@@ -6,7 +6,7 @@
 
 <div align="center">
 <img src="https://github.com/medinacharlesdan/Vue-Movie/blob/master/screenshot2.png" >
-<img src="https://github.com/medinacharlesdan/Vue-Movie/blob/master/screenshot1.jpg> 
+<img src="https://github.com/medinacharlesdan/Vue-Movie/blob/master/screenshot1.jpg" > 
 </div>
 
 
